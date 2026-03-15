@@ -42,3 +42,14 @@
 def check_infrastructure():
     status = vcenter.get_cluster_status()
     return status
+Technical Project Management
+YouBike API Integration
+![API](YouBike API 自動化數據介接腳本開發.png)
+
+SDLC & AI Monitoring
+![AI](軟體開發里程碑與 AI 辨識技術監控.png)
+
+IV. Database & Disaster Recovery
+Database Architecture
+Disaster Recovery SOP
+![DR](資料庫災難復原演練 (含故障排除紀錄).png)
