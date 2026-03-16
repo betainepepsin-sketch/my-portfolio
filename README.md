@@ -38,7 +38,7 @@
 <img src="./自動化設備整合監控與現地問題決策.png" width="100%">
 
 ### Integrated Monitoring & Database Backup
-<img src="整合式自動化監控與資料庫備援實務.png" width="100%">
+<img src="./System_Backup_Monitoring.png" width="100%">
 
 ### Cross-Segment Health Check (Automated)
 <img src="./跨網段基礎設施自動化健康檢查 (Health Check).png" width="100%">
@@ -50,7 +50,7 @@
 ## III. Automation Development & Technical Management
 
 ### Database Architecture & Schema Design
-<img src="Database_Architecture.png" width="100%">
+<img src="./Database_Architecture.png" width="100%">
 
 ### vSphere/vSAN Automation Scripting
 <img src="./vSpherevSAN自動化巡檢腳本.png" width="100%">
