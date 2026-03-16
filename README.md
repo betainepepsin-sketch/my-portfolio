@@ -30,7 +30,7 @@
 ### Cross-Segment Health Check (Automated)
 <img src="./跨網段基礎設施自動化健康檢查 (Health Check).png" width="100%">
 
-### Integrated Monitoring & Backup
+### Integrated Monitoring & Database Backup实务
 <img src="./整合式自動化監控與資料庫備援實務.png" width="100%">
 
 ---
@@ -51,10 +51,10 @@
 
 ---
 
-## IV. Database Integrity & Disaster Recovery (DR)
+## IV. Database Integrity & Recovery
 
-### Database Architecture Design
+### Database Architecture
 <img src="./Database_Architecture1.png" width="100%">
 
-### Disaster Recovery (DR) SOP & Drill
+### Disaster Recovery Drill (Failover Log)
 <img src="./資料庫災難復原演練 (含故障排除紀錄).png" width="100%">
