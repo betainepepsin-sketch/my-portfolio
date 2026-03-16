@@ -24,8 +24,11 @@
 ### Industry 5.0: Smart AGV & HMI Collaboration
 <img src="./工業 5.0：智慧型自動搬運監控與人機協作系統實作.png" width="100%">
 
-### Integrated Device Monitoring
+### Integrated Device Monitoring & Decision Support
 <img src="./自動化設備整合監控與現地問題決策.png" width="100%">
+
+### Integrated Monitoring & Database Backup 实务
+<img src="./整合式自動化監控與資料庫備援實務.png" width="100%">
 
 ### Cross-Segment Health Check (Automated)
 <img src="./跨網段基礎設施自動化健康檢查 (Health Check).png" width="100%">
@@ -33,6 +36,9 @@
 ---
 
 ## III. Automation Development & Technical Management
+
+### Database Architecture & Schema Design
+<img src="./Database_Architecture.png" width="100%">
 
 ### vSphere/vSAN Automation Scripting
 <img src="./vSpherevSAN自動化巡檢腳本.png" width="100%">
@@ -45,13 +51,3 @@
 
 ### SDLC & AI Recognition Monitoring
 <img src="./軟體開發里程碑與 AI 辨識技術監控.png" width="100%">
-
----
-
-## IV. Database Integrity & Architecture
-
-### Database Architecture Definition
-<img src="./Database_Architecture1.png" width="100%">
-
-### Integrated Monitoring & Database Backup
-<img src="./整合式自動化監控與資料庫備援實務.png" width="100%">
