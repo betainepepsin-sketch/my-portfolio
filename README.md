@@ -14,7 +14,7 @@
 ### Enterprise Virtualization & vSAN Maintenance
 <img src="./企業級虛擬化架構部署與 vSAN 儲存集群維運實績.png" width="100%">
 
-### Skyline Health & vSAN Audit
+### vSAN Skyline Health & Audit
 <img src="./vSAN 自動化稽核與 Skyline Health 健全狀況實務.png" width="100%">
 
 ---
@@ -29,9 +29,6 @@
 
 ### Cross-Segment Health Check (Automated)
 <img src="./跨網段基礎設施自動化健康檢查 (Health Check).png" width="100%">
-
-### Integrated Monitoring & Database Backup实务
-<img src="./整合式自動化監控與資料庫備援實務.png" width="100%">
 
 ---
 
@@ -51,10 +48,10 @@
 
 ---
 
-## IV. Database Integrity & Recovery
+## IV. Database Integrity & Architecture
 
-### Database Architecture
+### Database Architecture Definition
 <img src="./Database_Architecture1.png" width="100%">
 
-### Disaster Recovery Drill (Failover Log)
-<img src="./資料庫災難復原演練 (含故障排除紀錄).png" width="100%">
+### Integrated Monitoring & Database Backup
+<img src="./整合式自動化監控與資料庫備援實務.png" width="100%">
