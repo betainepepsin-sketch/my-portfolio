@@ -1,7 +1,15 @@
 # Technical Portfolio
 > Infrastructure Operations | Security Defense | Automation & Systems Integration
 
+<p align="left">
+  <a href="#i-infrastructure"> <img src="https://img.shields.io/badge/Section_I-Infrastructure-blue?style=for-the-badge"> </a>
+  <a href="#ii-automation"> <img src="https://img.shields.io/badge/Section_II-Automation-green?style=for-the-badge"> </a>
+  <a href="#iii-development"> <img src="https://img.shields.io/badge/Section_III-Development-orange?style=for-the-badge"> </a>
+</p>
+
 ---
+
+<div id="i-infrastructure"></div>
 
 ## I. Enterprise Infrastructure & Hybrid Cloud Architecture
 
@@ -19,6 +27,8 @@
 
 ---
 
+<div id="ii-automation"></div>
+
 ## II. Industrial Automation & Monitoring Systems
 
 ### Industry 5.0: Smart AGV & HMI Collaboration
@@ -27,13 +37,15 @@
 ### Integrated Device Monitoring & Decision Support
 <img src="./自動化設備整合監控與現地問題決策.png" width="100%">
 
-### Integrated Monitoring & Database Backup 实务
+### Integrated Monitoring & Database Backup
 <img src="./整合式自動化監控與資料庫備援實務.png" width="100%">
 
 ### Cross-Segment Health Check (Automated)
 <img src="./跨網段基礎設施自動化健康檢查 (Health Check).png" width="100%">
 
 ---
+
+<div id="iii-development"></div>
 
 ## III. Automation Development & Technical Management
 
